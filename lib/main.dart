@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const Text(
-                  'Break Fast :',
+                  'Break Fast fast :',
                   style: TextStyle(color: Colors.white, fontSize: 24),
                 ),
                 Container(
