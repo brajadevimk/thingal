@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: const Color.fromARGB(255, 76, 125, 175),
           title: const Center(
-            child: Text('Monday is Day', style: TextStyle(color: Colors.white)),
+            child: Text('Monday', style: TextStyle(color: Colors.white)),
           ),
         ),
         backgroundColor: Colors.blue,
